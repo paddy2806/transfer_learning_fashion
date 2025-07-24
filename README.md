@@ -1,7 +1,5 @@
 # transfer_learning_fashion
 
-# Fashion-MNIST Image Classification Using Transfer Learning (VGG16, PyTorch)
-
 ## Project Overview
 
 This project implements an image classification pipeline for the Fashion-MNIST dataset using **transfer learning** with a pretrained **VGG16** model in PyTorch. The goal is to leverage visual features learned from a large dataset (ImageNet) to improve classification accuracy on a smaller fashion image dataset, reducing training time and data requirements.
